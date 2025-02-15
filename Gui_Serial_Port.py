@@ -161,7 +161,7 @@ def set_modern_style(app):
     palette.setColor(QtGui.QPalette.ColorRole.Highlight, QtGui.QColor(42, 130, 218))
     palette.setColor(QtGui.QPalette.ColorRole.HighlightedText, QtCore.Qt.GlobalColor.black)
     app.setPalette(palette)
-
+#sd
     # Custom stylesheet for a flat, modern look.
     qss = """
     QMainWindow {
